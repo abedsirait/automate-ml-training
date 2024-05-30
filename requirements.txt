@@ -1,0 +1,4 @@
+cml
+google-cloud-storage
+tensorflow
+# tambahkan dependensi lain yang diperlukan
